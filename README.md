@@ -40,7 +40,6 @@ Ambas estão no Google Fonts.
 
 ## Arquivos
 
-- `painel/index.html`: painel "Resultados Central CLT" com a marca. A página não contém números; ela lê o `painel-dados.json` que a pessoa escolhe no navegador.
 
 - `zeni-logo-quadrada.png`: logo quadrada, 512 x 512 (a que está na ferramenta VendeAI)
 - `zeni-logo-192.png`: versão pequena, 192 x 192, para painéis e cabeçalhos
