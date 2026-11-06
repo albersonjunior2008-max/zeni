@@ -6,6 +6,7 @@
   --zeni-ciano: #00cce9;
   --zeni-branco: #ffffff;
   --zeni-degrade: linear-gradient(100deg, #4119af 0%, #5a2fd6 55%, #7646fe 100%);
+  --zeni-degrade-ciano: linear-gradient(100deg, #4119af 0%, #7646fe 55%, #00cce9 100%);
   --zeni-fonte-titulo: "Geologica", "Montserrat", system-ui, sans-serif;
   --zeni-fonte-texto: "Montserrat", system-ui, sans-serif;
 }

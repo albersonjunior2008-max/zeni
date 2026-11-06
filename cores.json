@@ -12,5 +12,6 @@
   "tipografia": {
     "titulos": "Geologica Bold",
     "textos": "Montserrat Regular"
-  }
+  },
+  "degrade-ciano": "linear-gradient(100deg, #4119af 0%, #7646fe 55%, #00cce9 100%)"
 }
